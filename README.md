@@ -1,6 +1,8 @@
 # Ejercicios de NumPy
-¡Bienvenido al repositorio de ejercicios de NumPy! Este espacio está diseñado para proporcionar una colección de desafíos y ejercicios prácticos destinados a mejorar tus habilidades con NumPy, una poderosa biblioteca de Python para la manipulación de arreglos multidimensionales.                                                                                                ![image](https://github.com/GsusSant/Numpy-Exercise/assets/161477129/06d369fd-a303-46ed-84f9-e1a0b105f1c9)
-
+¡Bienvenido al repositorio de ejercicios de NumPy! Este espacio está diseñado 
+para proporcionar una colección de desafíos y ejercicios prácticos destinados          ![image](https://github.com/GsusSant/Numpy-Exercise/assets/161477129/06d369fd-a303-46ed-84f9-e1a0b105f1c9)
+a mejorar tus habilidades con NumPy, una poderosa biblioteca de Python para la
+manipulación de arreglos multidimensionales.                                                                                               
 
 
 ## ¿Qué es NumPy?
