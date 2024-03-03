@@ -1,3 +1,5 @@
+![image](https://github.com/GsusSant/Numpy-Exercise/assets/161477129/0bc8d604-a23f-4b78-91f7-8d3abc11a70b)
+
 # Ejercicios de NumPy
 ¡Bienvenido al repositorio de ejercicios de NumPy! Este espacio está diseñado para proporcionar una colección de desafíos y ejercicios prácticos destinados a mejorar tus habilidades con NumPy, una poderosa biblioteca de Python para la manipulación de arreglos multidimensionales.
 
